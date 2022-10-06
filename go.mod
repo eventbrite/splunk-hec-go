@@ -1,4 +1,4 @@
-module github.com/fuyufjh/splunk-hec-go
+module github.com/eventbrite/splunk-hec-go
 
 go 1.17
 
